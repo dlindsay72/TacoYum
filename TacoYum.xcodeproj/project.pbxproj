@@ -16,6 +16,7 @@
 		7B767CBE1D9C3C06008D2E9A /* DropShadow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B767CBD1D9C3C06008D2E9A /* DropShadow.swift */; };
 		7B767CC01D9C3D21008D2E9A /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B767CBF1D9C3D21008D2E9A /* HeaderView.swift */; };
 		7B767CC21D9C3F10008D2E9A /* Taco.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B767CC11D9C3F10008D2E9A /* Taco.swift */; };
+		7B767CE21D9C49BB008D2E9A /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B767CE11D9C49BB008D2E9A /* DataService.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		7B767CBD1D9C3C06008D2E9A /* DropShadow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DropShadow.swift; sourceTree = "<group>"; };
 		7B767CBF1D9C3D21008D2E9A /* HeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		7B767CC11D9C3F10008D2E9A /* Taco.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Taco.swift; sourceTree = "<group>"; };
+		7B767CE11D9C49BB008D2E9A /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				7B767CC11D9C3F10008D2E9A /* Taco.swift */,
+				7B767CE11D9C49BB008D2E9A /* DataService.swift */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -201,6 +204,7 @@
 				7B767CA21D9C3850008D2E9A /* AppDelegate.swift in Sources */,
 				7B767CBE1D9C3C06008D2E9A /* DropShadow.swift in Sources */,
 				7B767CBA1D9C396C008D2E9A /* MainVC.swift in Sources */,
+				7B767CE21D9C49BB008D2E9A /* DataService.swift in Sources */,
 				7B767CC21D9C3F10008D2E9A /* Taco.swift in Sources */,
 				7B767CC01D9C3D21008D2E9A /* HeaderView.swift in Sources */,
 			);
