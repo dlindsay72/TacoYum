@@ -24,6 +24,7 @@
 		7B767CEC1D9C5A5E008D2E9A /* UICollectionView+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B767CEB1D9C5A5E008D2E9A /* UICollectionView+Ext.swift */; };
 		7B97B34A1D9C7C8200E9C07F /* MutableCollection+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97B3491D9C7C8200E9C07F /* MutableCollection+Ext.swift */; };
 		7B97B34C1D9C7DF800E9C07F /* Shakeable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97B34B1D9C7DF800E9C07F /* Shakeable.swift */; };
+		7B97B34E1D9C810D00E9C07F /* CustomCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B97B34D1D9C810D00E9C07F /* CustomCollectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -46,6 +47,7 @@
 		7B767CEB1D9C5A5E008D2E9A /* UICollectionView+Ext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UICollectionView+Ext.swift"; sourceTree = "<group>"; };
 		7B97B3491D9C7C8200E9C07F /* MutableCollection+Ext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "MutableCollection+Ext.swift"; sourceTree = "<group>"; };
 		7B97B34B1D9C7DF800E9C07F /* Shakeable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Shakeable.swift; sourceTree = "<group>"; };
+		7B97B34D1D9C810D00E9C07F /* CustomCollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCollectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				7B767CBF1D9C3D21008D2E9A /* HeaderView.swift */,
 				7B767CE31D9C5031008D2E9A /* TacoCell.swift */,
 				7B767CE41D9C5031008D2E9A /* TacoCell.xib */,
+				7B97B34D1D9C810D00E9C07F /* CustomCollectionView.swift */,
 			);
 			name = View;
 			sourceTree = "<group>";
@@ -228,6 +231,7 @@
 				7B767CA21D9C3850008D2E9A /* AppDelegate.swift in Sources */,
 				7B767CBE1D9C3C06008D2E9A /* DropShadow.swift in Sources */,
 				7B767CEA1D9C59E7008D2E9A /* NibLoadableView.swift in Sources */,
+				7B97B34E1D9C810D00E9C07F /* CustomCollectionView.swift in Sources */,
 				7B767CEC1D9C5A5E008D2E9A /* UICollectionView+Ext.swift in Sources */,
 				7B767CE81D9C5592008D2E9A /* ReusableView.swift in Sources */,
 				7B767CBA1D9C396C008D2E9A /* MainVC.swift in Sources */,
